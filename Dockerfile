@@ -10,3 +10,4 @@ RUN cabal install accelerate
 
 # Optional (editor):
 RUN apt-get -y install emacs24-nox haskell-mode
+RUN apt-get -y install less

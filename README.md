@@ -31,6 +31,15 @@ Ok, modules loaded: Main.
 *Main>
 ```
 
+If you want either read or edit a book sample file, you can either use `less` or `emacs`. Select `--rm` as appropiate:
+
+```
+$ docker run -ti --rm jordi/parconc less GetURL.hs
+...
+$ docker run -ti jordi/parconc emacs GetURL.hs
+...
+```
+
 otherwise:
 
 ```
