@@ -1,5 +1,6 @@
 # docker-haskell-parconc
-Examples of the "Parallel and Concurrent Programming in Haskell" book
+
+Examples of the ["Parallel and Concurrent Programming in Haskell" book](http://chimera.labs.oreilly.com/books/1230000000929). 
 
 To just download the image:
 
